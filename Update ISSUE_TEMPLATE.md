@@ -2,10 +2,10 @@
 
 ## Design/UX [hrs]  
   
-  ## Dev [hrs]
+## Dev [hrs]
  
- ## Theme [hrs]
+## Theme [hrs]
  +
- +## This ticket is done when:
+## This ticket is done when:
 +- [ ] item
 +- [ ] item
