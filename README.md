@@ -11,6 +11,7 @@ A website created by Myisha Kinberg and Katrina Hirsch to sell T-Shirts created 
 You will need the following things properly installed on your computer:
 
 * [Git](http://git-scm.com/)
+* [RubyGems](http://guides.rubygems.org/)
 * [Jekyll](https://jekyllrb.com/)
 
 
