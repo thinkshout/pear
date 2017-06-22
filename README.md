@@ -19,6 +19,7 @@ You will need the following things properly installed on your computer:
 * `gem install jekyll bundler`
 * `git clone https://github.com/thinkshout/pear`
 * `cd pear`
+* `bundle install`
 * `bundle exec jekyll serve`
 
 ## Running / Development
