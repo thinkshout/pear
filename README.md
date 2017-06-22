@@ -8,7 +8,7 @@
 
 ## Description
 
-A website created by Myisha Kinberg and Katrina Hirsch to sell T-Shirts created by ThinkShout and p:ear designers.
+An e-commerce site created by Myisha Kinberg and Katrina Hirsch to sell t-shirts created by ThinkShout and p:ear designers.
 
 ## Prerequisites
 
