@@ -18,7 +18,6 @@ You will need the following things properly installed on your computer:
 * [RubyGems](http://guides.rubygems.org/)
 * [Jekyll](https://jekyllrb.com/)
 
-
 ## Installation
 
 * `gem install jekyll bundler`
@@ -27,15 +26,18 @@ You will need the following things properly installed on your computer:
 * `bundle install`
 * `bundle exec jekyll serve`
 
+If you get a Ruby version error message, you may need to run:
+* `rbenv install 2.3.0`
+* `rbenv local 2.3.0`
+
+And then add the path and rbenv init to your `.profile` or similar:
+* `export PATH="$HOME/.rbenv/bin:$PATH"`
+* `eval "$(rbenv init -)"`
+
 ## Running / Development
 
 * `jekyll serve`
 * Visit the website at [http://127.0.0.1:4000/](http://localhost:4000)
-
-### Building
-
-* `jekyll build [site name]` (development)
-
 
 ## Known Bugs
 
