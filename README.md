@@ -1,6 +1,10 @@
 # p:ear
 
-#### By [Myisha Kinberg](https://github.com/myishakinberg) & [Katrina Hirsch](https://github.com/khirsch)
+#### Development Team:
+
+ * [Myisha Kinberg](https://github.com/myishakinberg) (Back-End Engineer)
+ * [Katrina Hirsch](https://github.com/khirsch) (Front-End Engineer)
+ * Alejandro Meillon (UX Designer)
 
 ## Description
 
