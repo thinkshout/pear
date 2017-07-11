@@ -30,13 +30,11 @@ If you get a Ruby version error message, you may need to run:
 * `rbenv install 2.3.0`
 * `rbenv local 2.3.0`
 
-And then add the path and rbenv init to your `.profile` or similar:
+## Running / Development
 * `export PATH="$HOME/.rbenv/bin:$PATH"`
 * `eval "$(rbenv init -)"`
-
-## Running / Development
-
-* `jekyll serve`
+*`rbenv local 2.3.0`
+* `bundle exec jekyll serve`
 * Visit the website at [http://127.0.0.1:4000/](http://localhost:4000)
 
 ## Known Bugs
