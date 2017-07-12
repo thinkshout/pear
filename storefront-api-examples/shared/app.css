@@ -27,12 +27,16 @@ h1 {
   font-weight: 300;
   margin: 0 0 15px;
   font-size: 2rem;
+  text-align: center;
+
 }
 
 h2 {
   font-weight: 300;
   margin: 0;
   font-size: 1.2rem;
+  text-align: center;
+
 }
 
 /* BASE APP
@@ -145,7 +149,7 @@ h2 {
   right: 0;
   height: 100%;
   width: 350px;
-  background-color: red;
+  background-color: white;
   display: flex;
   flex-direction: column;
   border-left: 1px solid #e5e5e5;

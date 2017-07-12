@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e02bc79b-74c1-400c-9076-2b97f6f5a050" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storefront-api-examples" afterPath="$PROJECT_DIR$/storefront-api-examples" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html" afterPath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js" afterPath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug" afterPath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storefront-api-examples/shared/app.css" afterPath="$PROJECT_DIR$/storefront-api-examples/shared/app.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +24,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="10" column="77" lean-forward="false" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+            <state relative-caret-position="1140">
+              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -31,38 +37,8 @@
       <file leaf-file-name="index.pug" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="products.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="19" lean-forward="false" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="12" lean-forward="false" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,38 +47,20 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2130">
-              <caret line="146" column="5" lean-forward="false" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+              <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="About Campaign.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/About Campaign.html">
+      <file leaf-file-name="products.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/products.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/storefront-api-examples/shared/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5400">
-              <caret line="360" column="13" lean-forward="false" selection-start-line="360" selection-start-column="13" selection-end-line="360" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -113,19 +71,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>index.ht</find>
-      <find>index.html</find>
-      <find>n</find>
-      <find>no</find>
-      <find>nod</find>
       <find>node</find>
       <find>node e</find>
       <find>node ex</find>
@@ -145,18 +98,24 @@
       <find>products.ht</find>
       <find>products.html</find>
       <find>products.htm</find>
-      <find>a</find>
-      <find>app</find>
-      <find>app.</find>
-      <find>app.c</find>
-      <find>app.cs</find>
       <find>app.css</find>
+      <find>app.cs</find>
+      <find>app.c</find>
+      <find>app.</find>
+      <find>app</find>
+      <find>ap</find>
+      <find>a</find>
+      <find>c</find>
+      <find>ca</find>
+      <find>car</find>
+      <find>cart</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/node_modules</dir>
       <dir>$PROJECT_DIR$/storefront-api-examples/node-graphql-client/node_modules</dir>
       <dir>$PROJECT_DIR$/storefront-api-examples/node-graphql-client</dir>
       <dir>$PROJECT_DIR$/storefront-api-examples</dir>
+      <dir>$PROJECT_DIR$/storefront-api-examples/ember-js-buy</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -180,17 +139,18 @@
         <option value="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.html" />
         <option value="$PROJECT_DIR$/products.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html" />
-        <option value="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/Shop.html" />
         <option value="$PROJECT_DIR$/About Campaign.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug" />
-        <option value="$PROJECT_DIR$/storefront-api-examples/shared/app.css" />
         <option value="$PROJECT_DIR$/_site/assets/main.css" />
         <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/storefront-api-examples/shared/app.css" />
+        <option value="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug" />
+        <option value="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js" />
+        <option value="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/products.js" />
       </list>
     </option>
   </component>
@@ -213,8 +173,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="40" />
+    <option name="x" value="1995" />
+    <option name="y" value="107" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -235,6 +195,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,9 +222,26 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pear" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storefront-api-examples" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-graphql-client" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,7 +253,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="SearchEverywhereHistoryKey" value="nav&#9;null&#9;null&#10;page-link&#9;null&#9;null&#10;app.css&#9;FILE&#9;file:///Users/myishakinberg/Sites/pear/storefront-api-examples/shared/app.css" />
+    <property name="SearchEverywhereHistoryKey" value="events&#9;FILE&#9;file:///Users/myishakinberg/Sites/pear/storefront-api-examples/node-graphql-client/node_modules/mocha/lib/browser/events.js&#10;nav&#9;null&#9;null&#10;page-link&#9;null&#9;null&#10;app.css&#9;FILE&#9;file:///Users/myishakinberg/Sites/pear/storefront-api-examples/shared/app.css" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -395,26 +373,29 @@
       <workItem from="1499471068723" duration="2436000" />
       <workItem from="1499702282880" duration="10972000" />
       <workItem from="1499789342742" duration="344000" />
-      <workItem from="1499790896317" duration="55000" />
+      <workItem from="1499790896317" duration="555000" />
+      <workItem from="1499803937389" duration="11009000" />
+      <workItem from="1499875653114" duration="2531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37226000" />
+    <option name="totallyTimeSpent" value="51266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="40" width="1400" height="757" extended-state="0" />
+    <frame x="1995" y="107" width="1400" height="757" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26142856" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26142856" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -456,43 +437,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -547,13 +491,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node-graphql-client/node_modules/.bin/babel" />
     <entry file="file://$PROJECT_DIR$/js/src/shopify_api.js" />
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -584,13 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/types.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/2017interns.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -604,14 +534,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products.html" />
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -630,39 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/shared/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="360" column="13" lean-forward="false" selection-start-line="360" selection-start-column="13" selection-end-line="360" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2130">
-          <caret line="146" column="5" lean-forward="false" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="75" column="19" lean-forward="false" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,10 +577,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/shared/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="151" column="25" lean-forward="false" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3876">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/node_modules/mocha/lib/browser/events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="181" column="18" lean-forward="false" selection-start-line="181" selection-start-column="18" selection-end-line="181" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/components/buy-button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="101" column="3" lean-forward="true" selection-start-line="84" selection-start-column="2" selection-end-line="101" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1226" lean-forward="false" selection-start-line="0" selection-start-column="1226" selection-end-line="0" selection-end-column="1245" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="10" column="77" lean-forward="false" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+        <state relative-caret-position="1140">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>

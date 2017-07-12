@@ -126,7 +126,6 @@ app.get('/', (req, res) => {
     return result.model.node;
   });
 
-console.log("Hello");
 
   return Promise.all([shopNameAndProductsPromise, cartPromise]).then(([shop, cart]) => {
       res.render('index', {
@@ -152,8 +151,8 @@ app.post('/add_line_item/:id', (req, res) => {
   const productId = req.params.id;
   const checkoutId = options.checkoutId;
   const quantity = parseInt(options.quantity, 10);
-
-  delete options.quantity;
+    console.log('cart');
+    delete options.quantity;
   delete options.checkoutId;
 
   return shopNameAndProductsPromise.then((shop) => {
@@ -168,14 +167,18 @@ app.post('/add_line_item/:id', (req, res) => {
         return options[selectedOption.name] === selectedOption.value.valueOf();
       });
     });
+      console.log(productId);
 
-    // Add the variant to our cart
+      // Add the variant to our cart
     const input = {
       checkoutId,
       lineItems: [{variantId: selectedVariant.id, quantity}]
     };
+      console.log(checkoutId);
 
-    return client.send(gql(client)`
+
+
+      return client.send(gql(client)`
       mutation ($checkoutId: ID!, $lineItems: [CheckoutLineItemInput!]!) {
         checkoutLineItemsAdd(checkoutId: $checkoutId, lineItems: $lineItems) {
           userErrors {
