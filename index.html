@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Home
+title:
 permalink:
 ---
 <html lang="en">
 <head>
 
+<<<<<<< HEAD
 
 </head>
 <body>
@@ -14,3 +15,74 @@ permalink:
   <a href = "/about">About p:ear</a>
 </body>
 </html>
+=======
+    <meta charset="UTF-8">
+    <title>Pear</title>
+    <link rel = "stylesheet" href="/storefront-api-examples/shared/app.css"/>
+    <link rel = "stylesheet" href="./assets/css/style.css"/>
+
+
+
+    <!--
+      This GraphiQL example depends on Promise and fetch, which are available in
+      modern browsers, but can be "polyfilled" for older browsers.
+      GraphiQL itself depends on React DOM.
+      If you do not want to rely on a CDN, you can host these files locally or
+      include them directly in your favored resource bunder.
+          <link rel="stylesheet" href="./node_modules/graphiql/graphiql.css"/>
+
+    -->
+        <script src="//cdn.jsdelivr.net/es6-promise/4.0.5/es6-promise.auto.min.js"></script>
+        <script src="//cdn.jsdelivr.net/fetch/0.9.0/fetch.min.js"></script>
+        <script src="//cdn.jsdelivr.net/react/15.4.2/react.min.js"></script>
+        <script src="//cdn.jsdelivr.net/react/15.4.2/react-dom.min.js"></script>
+        <script src="products.js"></script>
+
+
+
+</head>
+<body>
+
+<div class="hero-image">
+    <img src="/assets/images/2017interns.jpg" alt="" />
+    <div class="hero-text">
+<h1>Believe in Portland’s future? So do we. </h1>
+<p1> Helping P:ear, a local nonprofit dedicated to helping homeless youth, is as simple as buying a t-shirt. </p1><br>
+        <button onclick="myFunction()" >Shop Now</button>
+
+</div>
+</div>
+
+
+
+<h1> We Care for p:ear Summer T-Shirt Campaign</h1>
+<p>P:ear is a local non profit whose mission is to ensure homeless youth are supported through their transition to independence. This
+    summer ThinkShout’s intern team partnered with them to launch the We Care for p:ear T-Shirt Campaign. All proceeds will be donated
+    to p:ear. With your help, we can change the lives of Portland’s homeless youth.</p>
+
+{% include_relative storefront-api-examples/node-graphql-client/products.html %}
+
+<h1> Story Behind Campaign</h1>
+
+<p>Here at ThinkShout we believe in creating lasting partnerships with nonprofits and forward thinking companies. Participating
+    in our campaign is more than just buying a tshirt. Your money will go directly to p:ear, to fund programs like their Bike Mechanic
+    and Barista schools which will help students learn lifelong skills and have a chance for more equal opportunities.
+</p>
+
+<h1> About p:ear</h1>
+
+<p>For students who don’t have support whether it be in school or outside of the classroom p:ear is there to help.
+
+    P:ear is a local nonprofit dedicated to supporting and mentoring homeless youth between the ages 15 and 24 through creative
+    educational practices. Their approach allows students to find their interests and become passionate about subjects without the
+    strict guidelines of the education system. Through this campaign some of p:ears most creative students came together and designed
+    one of the tshirts featured above.
+
+    One of p:ear’s primary missions is to provide a safe space for students and they have been offering their services and love to
+    homeless youth in Portland for the last 15 years.
+
+    By participating in our campaign, you could improve a p:ear students day on their journey to tomorrow. Read more about p:ear.
+</p>
+
+
+>>>>>>> master
