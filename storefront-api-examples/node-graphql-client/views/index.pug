@@ -10,8 +10,6 @@ html(lang='en', data-framework='javascript')
         .App__view-cart-wrapper
           button.App__view-cart#view-cart-button Cart
         .App__title
-          h1=`Shop T-Shirts!`
-          h2=shop.description
 
       .Product-wrapper
         each product in products
@@ -30,6 +28,7 @@ html(lang='en', data-framework='javascript')
               label Quantity
               input.Product__quantity(min='1', type='number', name='quantity', value='1')
               input(type='hidden' name='checkoutId' value=cart.id)
+              input(type='hidden' name='productId' value=product.id)
               button.Product__buy.button#add-to-cart-button(type='submit')
                   | Add to cart
 
