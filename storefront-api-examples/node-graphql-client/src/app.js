@@ -151,8 +151,8 @@ app.post('/add_line_item/:id', (req, res) => {
   const productId = req.params.id;
   const checkoutId = options.checkoutId;
   const quantity = parseInt(options.quantity, 10);
-    console.log('cart');
-    delete options.quantity;
+
+  delete options.quantity;
   delete options.checkoutId;
 
   return shopNameAndProductsPromise.then((shop) => {
@@ -161,7 +161,7 @@ app.post('/add_line_item/:id', (req, res) => {
       return product.id === productId;
     });
 
-    // Find the corresponding variant
+    // Find the corresponding variant SIZE
     const selectedVariant = targetProduct.variants.find((variant) => {
       return variant.selectedOptions.every((selectedOption) => {
         return options[selectedOption.name] === selectedOption.value.valueOf();
@@ -169,13 +169,11 @@ app.post('/add_line_item/:id', (req, res) => {
     });
       console.log(productId);
 
-      // Add the variant to our cart
+      // Add the variant to our cart ADD SHIRT IN SELECTED SIZE AND QUANTITY TO CART
     const input = {
       checkoutId,
       lineItems: [{variantId: selectedVariant.id, quantity}]
     };
-      console.log(checkoutId);
-
 
 
       return client.send(gql(client)`
