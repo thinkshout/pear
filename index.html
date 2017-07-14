@@ -8,28 +8,10 @@ permalink:
 
     <meta charset="UTF-8">
     <title>Pear</title>
-    <link rel = "stylesheet" href="/storefront-api-examples/shared/app.css"/>
     <link rel = "stylesheet" href="./assets/css/style.css"/>
 
 
-
-    <!--
-      This GraphiQL example depends on Promise and fetch, which are available in
-      modern browsers, but can be "polyfilled" for older browsers.
-      GraphiQL itself depends on React DOM.
-      If you do not want to rely on a CDN, you can host these files locally or
-      include them directly in your favored resource bunder.
-          <link rel="stylesheet" href="./node_modules/graphiql/graphiql.css"/>
-
-    -->
-        <script src="//cdn.jsdelivr.net/es6-promise/4.0.5/es6-promise.auto.min.js"></script>
-        <script src="//cdn.jsdelivr.net/fetch/0.9.0/fetch.min.js"></script>
-        <script src="//cdn.jsdelivr.net/react/15.4.2/react.min.js"></script>
-        <script src="//cdn.jsdelivr.net/react/15.4.2/react-dom.min.js"></script>
-        <script src="products.js"></script>
-
-
-
+    <script src="shopify.js"></script>
 
 
 </head>
@@ -40,13 +22,10 @@ permalink:
     <div class="hero-text">
 <h1>Believe in Portland’s future? So do we. </h1>
 <p1> Helping P:ear, a local nonprofit dedicated to helping homeless youth, is as simple as buying a t-shirt. </p1><br>
-        <button onclick="myFunction()" >Shop Now</button>
+        <button >Shop Now</button>
 
 </div>
 </div>
-
-<button id = "cart_btn" >Cart</button>
-
 
 
 <h1> We Care for p:ear Summer T-Shirt Campaign</h1>
@@ -54,7 +33,7 @@ permalink:
     summer ThinkShout’s intern team partnered with them to launch the We Care for p:ear T-Shirt Campaign. All proceeds will be donated
     to p:ear. With your help, we can change the lives of Portland’s homeless youth.</p>
 
-{% include_relative storefront-api-examples/node-graphql-client/products.html %}
+
 
 <h1> Story Behind Campaign</h1>
 
@@ -77,5 +56,9 @@ permalink:
 
     By participating in our campaign, you could improve a p:ear students day on their journey to tomorrow. Read more about p:ear.
 </p>
+
+<div id='collection-component-e43e4e1e17c'></div>
+
+
 
 
