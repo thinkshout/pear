@@ -5,324 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e02bc79b-74c1-400c-9076-2b97f6f5a050" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/.idea/storefront-api-examples.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.ember-cli" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/.watchmanconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/CONTRIBUTING_DEVELOPER_CERTIFICATE_OF_ORIGIN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/adapters/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/components/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/components/buy-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/components/shopify-cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/controllers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/helpers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/helpers/is-equal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/helpers/total-price.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/models/cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/routes/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/routes/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/serializers/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/services/apollo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/services/cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/styles/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/templates/application.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/templates/components/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/templates/components/buy-button.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/templates/components/shopify-cart.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/config/environment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/ember-cli-build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/public/crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/testem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/helpers/destroy-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/helpers/module-for-acceptance.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/helpers/resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/helpers/start-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/integration/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/integration/components/buy-button-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/integration/components/shopify-cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/test-helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/adapters/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/helpers/is-equal-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/helpers/total-price-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/initializers/apollo-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/models/cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/routes/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/serializers/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/services/apollo-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/tests/unit/services/cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/vendor/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/vendor/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-apollo/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.ember-cli" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/.watchmanconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/CONTRIBUTING_DEVELOPER_CERTIFICATE_OF_ORIGIN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/adapters/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/components/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/components/buy-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/components/shopify-cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/controllers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/helpers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/helpers/is-equal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/helpers/total-price.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/initializers/graphql-js-client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/models/cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/routes/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/routes/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/serializers/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/services/cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/styles/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/templates/application.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/templates/components/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/templates/components/buy-button.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/templates/components/shopify-cart.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/types.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/config/environment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/ember-cli-build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/public/crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/schema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/testem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/helpers/destroy-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/helpers/module-for-acceptance.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/helpers/resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/helpers/start-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/integration/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/integration/components/buy-button-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/integration/components/shopify-cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/test-helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/adapters/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/helpers/is-equal-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/helpers/total-price-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/initializers/graphql-js-client-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/models/cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/routes/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/serializers/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/tests/unit/services/cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/vendor/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/vendor/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.ember-cli" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/.watchmanconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/CONTRIBUTING_DEVELOPER_CERTIFICATE_OF_ORIGIN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/adapters/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/components/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/components/buy-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/components/shopify-cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/controllers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/helpers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/helpers/is-equal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/helpers/total-price.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/initializers/js-buy-sdk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/models/cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/routes/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/routes/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/serializers/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/services/cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/styles/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/templates/application.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/templates/components/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/templates/components/buy-button.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/templates/components/shopify-cart.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/config/environment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/ember-cli-build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/public/crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/testem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/helpers/destroy-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/helpers/module-for-acceptance.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/helpers/resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/helpers/start-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/integration/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/integration/components/buy-button-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/integration/components/shopify-cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/test-helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/adapters/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/helpers/is-equal-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/helpers/total-price-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/initializers/js-buy-sdk-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/models/cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/routes/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/serializers/application-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/tests/unit/services/cart-test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/vendor/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/vendor/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/ember-js-buy/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/CONTRIBUTING_DEVELOPER_CERTIFICATE_OF_ORIGIN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/schema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/graphql-js-client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/types.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/test/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-graphql-client/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/CONTRIBUTING_DEVELOPER_CERTIFICATE_OF_ORIGIN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/src/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/src/js-buy-sdk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/test/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/views/index.pug" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/node-js-buy/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/App.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/checkout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/components/Cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/components/CustomerAuth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/components/LineItem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/components/Product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/components/VariantSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/src/types.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-apollo/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/config/env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/config/jest/cssTransform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/config/jest/fileTransform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/config/paths.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/config/polyfills.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/config/webpack.config.dev.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/config/webpack.config.prod.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/schema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/scripts/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/scripts/start.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/scripts/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/App.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/components/Cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/components/LineItem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/components/Product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/components/Products.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/components/VariantSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/src/types.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-graphql-client/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/App.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/components/Cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/components/LineItem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/components/Product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/components/Products.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/components/VariantSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/src/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/react-js-buy/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storefront-api-examples/shared/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About Campaign.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Shop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -334,17 +21,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="399">
+              <caret line="48" column="61" lean-forward="false" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopify.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shopify.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shopify.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -485,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -497,10 +185,41 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pear" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pear" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -637,12 +356,13 @@
       <workItem from="1499875653114" duration="9127000" />
       <workItem from="1499961703618" duration="8000" />
       <workItem from="1499962155402" duration="13613000" />
-      <workItem from="1500047926868" duration="7837000" />
+      <workItem from="1500047926868" duration="8316000" />
+      <workItem from="1500321159286" duration="245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79320000" />
+    <option name="totallyTimeSpent" value="80044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1216" height="797" extended-state="0" />
@@ -652,7 +372,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -664,6 +383,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -721,20 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node-graphql-client/node_modules/.bin/babel" />
     <entry file="file://$PROJECT_DIR$/js/src/shopify_api.js" />
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-js-buy/src/js-buy-sdk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="58" lean-forward="false" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/index.html" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-js-buy/src/js-buy-sdk.js" />
     <entry file="file://$PROJECT_DIR$/_site/about/index.html" />
     <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/lib/views/index.html" />
     <entry file="file://$PROJECT_DIR$/node_modules/graphiql/graphiql.css">
@@ -757,20 +465,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products.html" />
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/About Campaign.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -792,205 +486,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/storefront-api-examples/shared/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/node_modules/mocha/lib/browser/events.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="181" column="18" lean-forward="false" selection-start-line="181" selection-start-column="18" selection-end-line="181" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/components/buy-button.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="101" column="3" lean-forward="true" selection-start-line="84" selection-start-column="2" selection-end-line="101" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/shared/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="151" column="25" lean-forward="false" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/models/cart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/storefront-api-examples/shared/app.css" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/node_modules/mocha/lib/browser/events.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/components/buy-button.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/shared/app.css" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/views/index.pug" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-apollo/app/models/cart.js" />
     <entry file="file://$PROJECT_DIR$/cart.js" />
     <entry file="file://$PROJECT_DIR$/skeleton-theme/templates/product.liquid" />
     <entry file="file://$PROJECT_DIR$/skeleton-theme/layout/theme.liquid" />
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/types.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/config/environment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/resolver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/graphql-js-client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/types.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1707">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/yarn.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56416">
-          <caret line="2457" column="17" lean-forward="true" selection-start-line="2457" selection-start-column="17" selection-end-line="2457" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/initializers/graphql-js-client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="178" column="18" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/types.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/config/environment.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/index.html" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/router.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/resolver.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/graphql-js-client.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/types.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/README.md" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/yarn.lock" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-js-buy/README.md" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/ember-graphql-client/app/initializers/graphql-js-client.js" />
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/src/app.js" />
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="586">
           <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html" />
+    <entry file="file://$PROJECT_DIR$/products.js" />
+    <entry file="file://$PROJECT_DIR$/shopify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storefront-api-examples/node-graphql-client/products.html">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3622" lean-forward="false" selection-start-line="0" selection-start-column="3606" selection-end-line="0" selection-end-column="3622" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products.js">
+    <entry file="file://$PROJECT_DIR$/Shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1580">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="399">
+          <caret line="48" column="61" lean-forward="false" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
           <folding />
         </state>
       </provider>
