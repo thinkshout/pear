@@ -33,7 +33,6 @@ If you get a Ruby version error message, you may need to run:
 ## Running / Development
 * `export PATH="$HOME/.rbenv/bin:$PATH"`
 * `eval "$(rbenv init -)"`
-*`rbenv local 2.3.0`
 * `bundle exec jekyll serve`
 * Visit the website at [http://127.0.0.1:4000/](http://localhost:4000)
 
@@ -52,7 +51,7 @@ Please send any questions or concerns to myisha@thinkshout.com or katrina@thinks
 * Sass
 * JavaScript
 * Liquid
-* Shopify (API Plugin)
+* Shopify Storefront(API Plugin)
 
 
 ### License
