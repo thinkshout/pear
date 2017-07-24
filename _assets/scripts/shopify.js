@@ -46,7 +46,8 @@
                                     "@media (min-width: 601px)": {
                                         "max-width": "calc(25% - 20px)",
                                         "margin-left": "20px",
-                                        "margin-bottom": "50px"
+                                        "margin-bottom": "50px",
+
                                     }
                                 }
                             }
@@ -75,7 +76,8 @@
                                     "@media (min-width: 601px)": {
                                         "max-width": "100%",
                                         "margin-left": "0px",
-                                        "margin-bottom": "0px"
+                                        "margin-bottom": "0px",
+
                                     }
                                 }
                             }
@@ -84,7 +86,8 @@
                             "styles": {
                                 "products": {
                                     "@media (min-width: 601px)": {
-                                        "margin-left": "-20px"
+                                        "margin-left": "20px",
+
                                     }
                                 }
                             }
