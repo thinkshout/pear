@@ -1,5 +1,6 @@
-body, html {
-  height: 100%;
+body,  {
+  background-color: #212D5B;
+  color: #fff;
 }
 
 .hero-image {

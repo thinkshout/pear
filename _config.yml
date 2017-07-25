@@ -13,15 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ThinkShout Cares
-email:
-description: > # .
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: 'ThinkShout Cares'
+timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown
-theme:
 plugins:
   - jekyll-assets
 sass:
@@ -40,3 +36,12 @@ sass:
 #   - vendor/ruby/
 
 # Asset configuration
+assets:
+  compress:
+    css: true
+    js: true
+  digest: true
+  sources:
+    - _assets/css
+    - _assets/images
+    - _assets/scripts
