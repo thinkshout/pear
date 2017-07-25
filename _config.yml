@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'ThinkShout Cares'
+title: ThinkShout Cares
 timezone: America/Los_Angeles
 
 # Build settings
@@ -26,21 +26,19 @@ sass:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .asset-cache/
+  - .sass-cache/
 
 # Asset configuration
 assets:
   compress:
     css: true
     js: true
-  digest: true
+  baseurl: /assets/
   sources:
     - _assets/css
     - _assets/images
