@@ -10,6 +10,8 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-bottom: 0px;
+  border-radius: 0px !important;
 }
 
 .navbar {
@@ -29,6 +31,7 @@ body {
   background-color: $cararra;
   color: $cloud-burst;
   padding: 1em 2em;
+  margin-top: 0px;
 }
 
 #footer {
