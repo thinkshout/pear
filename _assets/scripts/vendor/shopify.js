@@ -28,7 +28,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: 436910357,
-        node: document.getElementById('collection-component-dcedb40fb41'),
+        node: document.getElementById('collection-component-59bfc49f57b'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -71,7 +71,15 @@
     "contents": {
       "button": true
     },
+    "text": {
+      "title": "Shopping Cart",
+      "total": "TOTAL",
+      "notice": ""
+    },
     "styles": {
+      "cart": {
+        "background-color": "#f8f8f5"
+      },
       "button": {
         "background-color": "#e46a25",
         "color": "#f8f8f5",
@@ -84,8 +92,38 @@
           "background-color": "#cd5f21"
         }
       },
+      "title": {
+        "color": "#212d5b"
+      },
       "footer": {
-        "background-color": "#ffffff"
+        "background-color": "#f8f8f5"
+      },
+      "header": {
+        "color": "#212d5b"
+      },
+      "lineItems": {
+        "color": "#212d5b"
+      },
+      "subtotalText": {
+        "color": "#212d5b"
+      },
+      "subtotal": {
+        "color": "#212d5b"
+      },
+      "notice": {
+        "color": "#212d5b"
+      },
+      "currency": {
+        "color": "#212d5b"
+      },
+      "close": {
+        ":hover": {
+          "color": "#212d5b"
+        },
+        "color": "#212d5b"
+      },
+      "emptyCart": {
+        "color": "#212d5b"
       }
     }
   },
@@ -151,6 +189,34 @@
         "@media (min-width: 601px)": {
           "margin-left": "-20px"
         }
+      }
+    }
+  },
+  "lineItem": {
+    "styles": {
+      "variantTitle": {
+        "color": "#212d5b"
+      },
+      "title": {
+        "color": "#212d5b"
+      },
+      "price": {
+        "color": "#212d5b"
+      },
+      "quantity": {
+        "color": "#212d5b"
+      },
+      "quantityIncrement": {
+        "color": "#212d5b",
+        "border-color": "#212d5b"
+      },
+      "quantityDecrement": {
+        "color": "#212d5b",
+        "border-color": "#212d5b"
+      },
+      "quantityInput": {
+        "color": "#212d5b",
+        "border-color": "#212d5b"
       }
     }
   }
