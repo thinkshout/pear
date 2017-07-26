@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-  margin-top: 50px;
+  margin-top: 100px;
   height: 400px;
   background-image: url(asset_path('2017interns.jpg'));
   background-position: center;
@@ -17,6 +17,10 @@ body {
 .navbar {
   background-color: $cloud-burst;
   border: 0;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .navbar-brand {
