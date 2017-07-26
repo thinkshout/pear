@@ -7,12 +7,6 @@
   background-repeat: no-repeat;
 }
 
-.jumbotron-text {
-  display: block;
-  margin: 25% auto;
-  text-align: center;
-}
-
 .navbar {
   background-color: $cloud-burst;
   border: 0;
@@ -20,4 +14,9 @@
 
 .navbar-brand {
   padding: 5px 10px;
+}
+
+#shop {
+  background-color: $cararra;
+  margin-top: 0;
 }
