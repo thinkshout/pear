@@ -28,7 +28,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: 436910357,
-        node: document.getElementById('collection-component-59bfc49f57b'),
+        node: document.getElementById('collection-component-1db5b210813'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -64,6 +64,15 @@
         ":focus": {
           "background-color": "#cd5f21"
         }
+      },
+      "title": {
+        "color": "#212d5b"
+      },
+      "price": {
+        "color": "#212d5b"
+      },
+      "compareAt": {
+        "color": "#212d5b"
       }
     }
   },
@@ -74,7 +83,8 @@
     "text": {
       "title": "Shopping Cart",
       "total": "TOTAL",
-      "notice": ""
+      "notice": "",
+      "button": "Checkout"
     },
     "styles": {
       "cart": {
