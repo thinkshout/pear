@@ -3,9 +3,18 @@ h1 {
   margin: 1em;
 }
 
+nav a {
+  color: $cararra !important;
+}
+
 .jumbotron-text {
   display: block;
   margin: 10em auto;
   text-align: center;
   color: $cararra;
+}
+
+#tagline {
+  text-align: center;
+  margin: 3em;
 }
