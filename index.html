@@ -6,38 +6,48 @@
   {% include head.html %}
   <body>
 
-    <div class="nav">
-
-    </div>
-
-    <div class="hero-image">
-        <img src="/assets/images/2017interns.jpg" alt="ThinkShout Summer Interns"/>
-        <div class="hero-text">
-          <h1>Believe in Portland’s future? So do we.</h1>
-          <p1> Helping P:ear, a local nonprofit dedicated to helping homeless youth, is as simple as buying a t-shirt.</p1><br>
-          <button>Shop Now</button>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">
+            <img src={% asset_path 'thinkshout-cares-logo.png' %} alt="ThinkShout Cares" id="ts-cares-logo">
+          </a>
         </div>
-    </div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#shop">Shop T-Shirts</a></li>
+          <li><a href="#support">Support p:ear</a></li>
+          <li><a href="#about">About ThinkShout</a></li>
+        </ul>
+      </div>
+    </nav>
 
-    <div class="container">
-      <div class="shop">
-        <h1>Buy, Help, Wear</h1>
-        <div id='collection-component-e43e4e1e17c'></div>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="jumbotron-text">
+          <h2>Believe in Portland’s future? So do we.</h2>
+          <p1> Helping P:ear, a local nonprofit dedicated to helping homeless youth, is as simple as buying a t-shirt.</p1><br>
+          <button class="btn">Shop Now</button>
+        </div>
       </div>
     </div>
 
-    <div class="support">
-      <h1>ThinkShout Cares Summer T-Shirt Campaign</h1>
-      <p>P:ear is a local non profit whose mission is to ensure homeless youth are supported through their transition to independence. This summer ThinkShout’s intern team partnered with them to launch the We Care for p:ear T-Shirt Campaign. All proceeds will be donated to p:ear. With your help, we can change the lives of Portland’s homeless youth.</p>
-      <h1>Story Behind Campaign</h1>
-      <p>Here at ThinkShout we believe in creating lasting partnerships with nonprofits and forward thinking companies. Participating in our campaign is more than just buying a tshirt. Your money will go directly to p:ear, to fund programs like their Bike Mechanic and Barista schools which will help students learn lifelong skills and have a chance for more equal opportunities.</p>
-      <h1> About p:ear</h1>
-      <p>For students who don’t have support whether it be in school or outside of the classroom p:ear is there to help.
-        p:ear is a local nonprofit dedicated to supporting and mentoring homeless youth between the ages 15 and 24 through creative educational practices. Their approach allows students to find their interests and become passionate about subjects without the strict guidelines of the education system. Through this campaign some of p:ears most creative students came together and designed one of the tshirts featured above. One of p:ear’s primary missions is to provide a safe space for students and they have been offering their services and love to homeless youth in Portland for the last 15 years. By participating in our campaign, you could improve a p:ear students day on their journey to tomorrow. Read more about p:ear.</p>
-    </div>
-
-    <div class="about">
-      <h1>About ThinkShout</h1>
+    <div class="container">
+      <div id="shop">
+        <h1>Buy, Help, Wear</h1>
+        <div id='collection-component-e43e4e1e17c'></div>
+      </div>
+      <div id="support">
+        <h1>ThinkShout Cares Summer T-Shirt Campaign</h1>
+        <p>P:ear is a local non profit whose mission is to ensure homeless youth are supported through their transition to independence. This summer ThinkShout’s intern team partnered with them to launch the We Care for p:ear T-Shirt Campaign. All proceeds will be donated to p:ear. With your help, we can change the lives of Portland’s homeless youth.</p>
+        <h1>Story Behind Campaign</h1>
+        <p>Here at ThinkShout we believe in creating lasting partnerships with nonprofits and forward thinking companies. Participating in our campaign is more than just buying a tshirt. Your money will go directly to p:ear, to fund programs like their Bike Mechanic and Barista schools which will help students learn lifelong skills and have a chance for more equal opportunities.</p>
+        <h1> About p:ear</h1>
+        <p>For students who don’t have support whether it be in school or outside of the classroom p:ear is there to help.
+          p:ear is a local nonprofit dedicated to supporting and mentoring homeless youth between the ages 15 and 24 through creative educational practices. Their approach allows students to find their interests and become passionate about subjects without the strict guidelines of the education system. Through this campaign some of p:ears most creative students came together and designed one of the tshirts featured above. One of p:ear’s primary missions is to provide a safe space for students and they have been offering their services and love to homeless youth in Portland for the last 15 years. By participating in our campaign, you could improve a p:ear students day on their journey to tomorrow. Read more about p:ear.</p>
+      </div>
+      <div id="about">
+        <h1>About ThinkShout</h1>
+      </div>
     </div>
 
   </body>
