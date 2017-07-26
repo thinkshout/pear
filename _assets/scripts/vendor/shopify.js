@@ -28,7 +28,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: 436910357,
-        node: document.getElementById('collection-component-68a63b2e849'),
+        node: document.getElementById('collection-component-dcedb40fb41'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -52,17 +52,17 @@
         }
       },
       "button": {
-        "background-color": "#b0b600",
+        "background-color": "#e46a25",
         "color": "#f8f8f5",
         "padding-left": "25px",
         "padding-right": "25px",
         ":hover": {
-          "background-color": "#9ea400",
+          "background-color": "#cd5f21",
           "color": "#f8f8f5"
         },
         "border-radius": "10px",
         ":focus": {
-          "background-color": "#9ea400"
+          "background-color": "#cd5f21"
         }
       }
     }
@@ -73,15 +73,15 @@
     },
     "styles": {
       "button": {
-        "background-color": "#b0b600",
+        "background-color": "#e46a25",
         "color": "#f8f8f5",
         ":hover": {
-          "background-color": "#9ea400",
+          "background-color": "#cd5f21",
           "color": "#f8f8f5"
         },
         "border-radius": "10px",
         ":focus": {
-          "background-color": "#9ea400"
+          "background-color": "#cd5f21"
         }
       },
       "footer": {
@@ -107,17 +107,17 @@
         }
       },
       "button": {
-        "background-color": "#b0b600",
+        "background-color": "#e46a25",
         "color": "#f8f8f5",
         "padding-left": "25px",
         "padding-right": "25px",
         ":hover": {
-          "background-color": "#9ea400",
+          "background-color": "#cd5f21",
           "color": "#f8f8f5"
         },
         "border-radius": "10px",
         ":focus": {
-          "background-color": "#9ea400"
+          "background-color": "#cd5f21"
         }
       }
     }
@@ -125,12 +125,12 @@
   "toggle": {
     "styles": {
       "toggle": {
-        "background-color": "#b0b600",
+        "background-color": "#e46a25",
         ":hover": {
-          "background-color": "#9ea400"
+          "background-color": "#cd5f21"
         },
         ":focus": {
-          "background-color": "#9ea400"
+          "background-color": "#cd5f21"
         }
       },
       "count": {
