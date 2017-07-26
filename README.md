@@ -47,11 +47,12 @@ Please send any questions or concerns to myisha@thinkshout.com or katrina@thinks
 ## Technologies Used
 
 * HTML
-* CSS
-* Sass
+* CSS / Sass
+* Bootstrap
 * JavaScript
+* jQuery
 * Liquid
-* Shopify Storefront(API Plugin)
+* Shopify Storefront (API Plugin)
 
 
 ### License
