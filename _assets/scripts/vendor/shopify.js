@@ -1,5 +1,4 @@
-
-    (function () {
+ (function () {
         var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
         if (window.ShopifyBuy) {
             if (window.ShopifyBuy.UI) {
@@ -29,7 +28,7 @@
             ShopifyBuy.UI.onReady(client).then(function (ui) {
                 ui.createComponent('collection', {
                     id: 436910357,
-                    node: document.getElementById('collection-component-e43e4e1e17c'),
+                    node: document.getElementById('collection-component-71a46c7676b'),
                     moneyFormat: '%24%7B%7Bamount%7D%7D',
                     options: {
                         "product": {
@@ -38,16 +37,30 @@
                                 "imgWithCarousel": false,
                                 "variantTitle": false,
                                 "description": false,
-                                "buttonWithQuantity": false,
+                                "buttonWithQuantity": true,
+                                "button": false,
                                 "quantity": false
+                            },
+                            "text": {
+                                "button": "Add to Cart"
                             },
                             "styles": {
                                 "product": {
                                     "@media (min-width: 601px)": {
                                         "max-width": "calc(25% - 20px)",
                                         "margin-left": "20px",
-                                        "margin-bottom": "50px",
-
+                                        "margin-bottom": "50px"
+                                    }
+                                },
+                                "button": {
+                                    "background-color": "#7c00b6",
+                                    "color": "#f8f8f5",
+                                    ":hover": {
+                                        "background-color": "#d300ff",
+                                        "color": "#f8f8f5"
+                                    },
+                                    ":focus": {
+                                        "background-color": "#d300ff"
                                     }
                                 }
                             }
@@ -57,6 +70,17 @@
                                 "button": true
                             },
                             "styles": {
+                                "button": {
+                                    "background-color": "#7c00b6",
+                                    "color": "#f8f8f5",
+                                    ":hover": {
+                                        "background-color": "#d300ff",
+                                        "color": "#f8f8f5"
+                                    },
+                                    ":focus": {
+                                        "background-color": "#d300ff"
+                                    }
+                                },
                                 "footer": {
                                     "background-color": "#ffffff"
                                 }
@@ -76,9 +100,41 @@
                                     "@media (min-width: 601px)": {
                                         "max-width": "100%",
                                         "margin-left": "0px",
-                                        "margin-bottom": "0px",
-
+                                        "margin-bottom": "0px"
                                     }
+                                },
+                                "button": {
+                                    "background-color": "#7c00b6",
+                                    "color": "#f8f8f5",
+                                    ":hover": {
+                                        "background-color": "#d300ff",
+                                        "color": "#f8f8f5"
+                                    },
+                                    ":focus": {
+                                        "background-color": "#d300ff"
+                                    }
+                                }
+                            }
+                        },
+                        "toggle": {
+                            "styles": {
+                                "toggle": {
+                                    "background-color": "#7c00b6",
+                                    ":hover": {
+                                        "background-color": "#d300ff"
+                                    },
+                                    ":focus": {
+                                        "background-color": "#d300ff"
+                                    }
+                                },
+                                "count": {
+                                    "color": "#f8f8f5",
+                                    ":hover": {
+                                        "color": "#f8f8f5"
+                                    }
+                                },
+                                "iconPath": {
+                                    "fill": "#f8f8f5"
                                 }
                             }
                         },
@@ -86,8 +142,7 @@
                             "styles": {
                                 "products": {
                                     "@media (min-width: 601px)": {
-                                        "margin-left": "20px",
-
+                                        "margin-left": "-20px"
                                     }
                                 }
                             }
