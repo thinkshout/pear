@@ -1,3 +1,8 @@
+body {
+  background-color: $cloud-burst;
+  color: $cararra;
+}
+
 .jumbotron {
   margin-top: 50px;
   height: 700px;
@@ -18,5 +23,5 @@
 
 #shop {
   background-color: $cararra;
-  margin-top: 0;
+  color: $cloud-burst;
 }
