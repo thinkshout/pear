@@ -1,14 +1,24 @@
 @include font-face('Droid-Serif');
 @include font-face('Roboto-Sans');
 
-body {
-  font-family: 'Droid-Serif';
+p {
+  font-family: 'Droid-Serif', serif;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 h1 {
-  font-family: 'Roboto-Sans';
+  font-family: 'Roboto-Sans', sans-serif;
   text-align: center;
   margin: 1em;
+}
+
+h2, h3 {
+  font-family: 'Roboto-Sans', sans-serif;
+}
+
+h5 {
+  font-family: 'Droid-Serif', serif;
 }
 
 h3, h5 {
@@ -16,18 +26,18 @@ h3, h5 {
 }
 
 nav a {
-  font-family: 'Roboto-Sans';
+  font-family: 'Roboto-Sans', sans-serif;
   color: $cararra !important;
   font-size: 18px;
 }
 
 .jumbotron button {
-  font-family: 'Roboto-Sans';
+  font-family: 'Roboto-Sans', sans-serif;
   font-size: 30px;
 }
 
 .jumbotron-text {
-  font-family: 'Roboto-Sans';
+  font-family: 'Roboto-Sans', sans-serif;
   display: block;
   margin: 10em auto;
   text-align: center;
@@ -35,6 +45,7 @@ nav a {
 }
 
 #tagline {
+  font-family: 'Droid-Serif', serif;
   text-align: center;
   margin: 3em;
 }
