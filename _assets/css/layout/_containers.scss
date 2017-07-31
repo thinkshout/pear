@@ -3,6 +3,11 @@ body {
   color: $cararra;
 }
 
+iframe {
+  display: block;
+  margin: auto;
+}
+
 .jumbotron {
   margin-top: 100px;
   height: 400px;
