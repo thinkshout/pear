@@ -1,6 +1,6 @@
 body {
-  background-color: $cloud-burst;
-  color: $cararra;
+  background-color: $cararra;
+  color: $cloud-burst;
 }
 
 .shopify-content {
@@ -34,6 +34,8 @@ body {
 
 .content {
   margin: 3em 0;
+  background-color: $cloud-burst;
+  color: $cararra;
 }
 
 .framed-content {
@@ -48,9 +50,14 @@ body {
   margin-top: 0px;
 }
 
+#support {
+  padding: 1em 3em 3em;
+  margin-bottom: 0;
+}
+
 #about {
   display: block;
-  margin: auto;
+  margin: 0 auto;
   padding: 5em 15em;
 }
 
