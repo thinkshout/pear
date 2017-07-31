@@ -36,6 +36,11 @@ body {
   margin: 3em 0;
 }
 
+.framed-content {
+  border: 5px dashed $cararra;
+  padding: 1em;
+}
+
 #shop {
   background-color: $cararra;
   color: $cloud-burst;
