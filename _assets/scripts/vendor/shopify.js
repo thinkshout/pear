@@ -26,22 +26,23 @@
     });
 
     ShopifyBuy.UI.onReady(client).then(function (ui) {
-      ui.createComponent('collection', {
-        id: 436910357,
-        node: document.getElementById('collection-component-1db5b210813'),
+      ui.createComponent('product', {
+        id: [11148954453],
+        node: document.getElementById('product-component-d012481568d'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
     "variantId": "all",
+    "width": "240px",
     "contents": {
+      "img": false,
       "imgWithCarousel": false,
+      "title": false,
       "variantTitle": false,
+      "price": false,
       "description": false,
       "buttonWithQuantity": false,
       "quantity": false
-    },
-    "text": {
-      "button": "Add to Cart"
     },
     "styles": {
       "product": {
@@ -52,55 +53,81 @@
         }
       },
       "button": {
-        "background-color": "#e46a25",
-        "color": "#f8f8f5",
-        "padding-left": "25px",
-        "padding-right": "25px",
+        "background-color": "#f8b493",
+        "font-family": "Roboto, sans-serif",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        "padding-left": "20px",
+        "padding-right": "20px",
         ":hover": {
-          "background-color": "#cd5f21",
-          "color": "#f8f8f5"
+          "background-color": "#dfa284"
         },
-        "border-radius": "10px",
+        "border-radius": "5px",
         ":focus": {
-          "background-color": "#cd5f21"
-        }
+          "background-color": "#dfa284"
+        },
+        "font-weight": "bold"
+      },
+      "variantTitle": {
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
       },
       "title": {
-        "color": "#212d5b"
+        "font-family": "Roboto, sans-serif"
+      },
+      "description": {
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
       },
       "price": {
-        "color": "#212d5b"
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
+      },
+      "quantityInput": {
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px"
       },
       "compareAt": {
-        "color": "#212d5b"
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
       }
-    }
+    },
+    "googleFonts": [
+      "Roboto",
+      "Droid Serif",
+      "Roboto",
+      "Droid Serif",
+      "Droid Serif",
+      "Droid Serif"
+    ]
   },
   "cart": {
     "contents": {
       "button": true
     },
     "text": {
-      "title": "Shopping Cart",
-      "total": "TOTAL",
-      "notice": "",
-      "button": "Checkout"
+      "notice": ""
     },
     "styles": {
       "cart": {
         "background-color": "#f8f8f5"
       },
       "button": {
-        "background-color": "#e46a25",
-        "color": "#f8f8f5",
+        "background-color": "#f8b493",
+        "font-family": "Roboto, sans-serif",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
         ":hover": {
-          "background-color": "#cd5f21",
-          "color": "#f8f8f5"
+          "background-color": "#dfa284"
         },
-        "border-radius": "10px",
+        "border-radius": "5px",
         ":focus": {
-          "background-color": "#cd5f21"
-        }
+          "background-color": "#dfa284"
+        },
+        "font-weight": "bold"
       },
       "title": {
         "color": "#212d5b"
@@ -135,7 +162,10 @@
       "emptyCart": {
         "color": "#212d5b"
       }
-    }
+    },
+    "googleFonts": [
+      "Roboto"
+    ]
   },
   "modalProduct": {
     "contents": {
@@ -155,43 +185,90 @@
         }
       },
       "button": {
-        "background-color": "#e46a25",
-        "color": "#f8f8f5",
-        "padding-left": "25px",
-        "padding-right": "25px",
+        "background-color": "#f8b493",
+        "font-family": "Roboto, sans-serif",
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px",
+        "padding-left": "20px",
+        "padding-right": "20px",
         ":hover": {
-          "background-color": "#cd5f21",
-          "color": "#f8f8f5"
+          "background-color": "#dfa284"
         },
-        "border-radius": "10px",
+        "border-radius": "5px",
         ":focus": {
-          "background-color": "#cd5f21"
-        }
+          "background-color": "#dfa284"
+        },
+        "font-weight": "bold"
+      },
+      "variantTitle": {
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
+      },
+      "title": {
+        "font-family": "Roboto, sans-serif"
+      },
+      "description": {
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
+      },
+      "price": {
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
+      },
+      "quantityInput": {
+        "font-size": "14px",
+        "padding-top": "15px",
+        "padding-bottom": "15px"
+      },
+      "compareAt": {
+        "font-family": "Droid Serif, serif",
+        "font-weight": "normal"
       }
-    }
+    },
+    "googleFonts": [
+      "Roboto",
+      "Droid Serif",
+      "Roboto",
+      "Droid Serif",
+      "Droid Serif",
+      "Droid Serif"
+    ]
   },
   "toggle": {
     "styles": {
       "toggle": {
-        "background-color": "#e46a25",
+        "font-family": "Roboto, sans-serif",
+        "background-color": "#f8b493",
         ":hover": {
-          "background-color": "#cd5f21"
+          "background-color": "#dfa284"
         },
         ":focus": {
-          "background-color": "#cd5f21"
-        }
+          "background-color": "#dfa284"
+        },
+        "font-weight": "bold"
       },
       "count": {
-        "color": "#f8f8f5",
-        ":hover": {
-          "color": "#f8f8f5"
-        },
-        "font-size": "16px"
-      },
-      "iconPath": {
-        "fill": "#f8f8f5"
+        "font-size": "14px"
       }
-    }
+    },
+    "googleFonts": [
+      "Roboto"
+    ]
+  },
+  "option": {
+    "styles": {
+      "label": {
+        "font-family": "Droid Serif, serif"
+      },
+      "select": {
+        "font-family": "Droid Serif, serif"
+      }
+    },
+    "googleFonts": [
+      "Droid Serif",
+      "Droid Serif"
+    ]
   },
   "productSet": {
     "styles": {
