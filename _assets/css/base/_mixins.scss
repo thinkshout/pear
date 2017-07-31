@@ -1,0 +1,6 @@
+@mixin font-face($family) {
+  @font-face {
+    font-family: $family;
+    src: url(asset_path($family + '.ttf'));
+  }
+}

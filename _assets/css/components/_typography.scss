@@ -1,20 +1,29 @@
+@include font-face('Droid-Serif');
+@include font-face('Roboto-Sans');
+
+body {
+  font-family: 'Droid-Serif';
+}
+
 h1 {
+  font-family: 'Roboto-Sans';
   text-align: center;
   margin: 1em;
 }
 
 nav a {
+  font-family: 'Roboto-Sans';
   color: $cararra !important;
-  font-weight: bold;
   font-size: 18px;
 }
 
 .jumbotron button {
+  font-family: 'Roboto-Sans';
   font-size: 30px;
-  font-weight: bold;
 }
 
 .jumbotron-text {
+  font-family: 'Roboto-Sans';
   display: block;
   margin: 10em auto;
   text-align: center;
