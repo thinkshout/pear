@@ -32,6 +32,10 @@ nav a {
   font-size: 18px;
 }
 
+nav a:hover {
+  border-bottom: 3px solid $rose-bud;
+}
+
 .jumbotron button {
   font-family: 'Roboto-Sans', sans-serif;
   font-size: 30px;
