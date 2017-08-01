@@ -3,36 +3,50 @@
 
 p {
   font-family: 'Droid-Serif', serif;
-  font-size: 16px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 32px;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h4, h5 {
   text-align: center;
 }
 
 h1, h2, h3, h4 {
   font-family: 'Roboto-Black', sans-serif;
-  margin: 1em;
 }
 
-h1, h2 {
+h1 {
+  font-size: 48px;
   color: $cararra;
 }
 
-h3, h5 {
+h2 {
+  font-size: 40px;
+  color: $cloud-burst;
+}
+
+h3 {
+  font-size: 30px;
+  color: $cararra;
+}
+
+h4 {
+  font-size: 24px;
   color: $cloud-burst;
 }
 
 h5 {
   font-family: 'Droid-Serif', serif;
   font-style: italic;
+  font-size: 14px;
+  color: $cloud-burst;
 }
 
 nav a {
   font-family: 'Roboto-Black', sans-serif;
   color: $cararra !important;
   font-size: 18px;
+  line-height: 22px;
 }
 
 nav ul {
@@ -55,9 +69,8 @@ nav li:hover {
 }
 
 .jumbotron-text {
-  font-family: 'Roboto-Black', sans-serif;
   display: block;
-  margin: 10em auto;
+  margin: auto;
   text-align: center;
   color: $cararra;
 }
@@ -70,6 +83,7 @@ nav li:hover {
 
 #tagline {
   font-family: 'Droid-Serif', serif;
+  font-size: 28px;
   text-align: center;
 }
 
