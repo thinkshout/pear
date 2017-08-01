@@ -62,6 +62,12 @@ nav li:hover {
   color: $cararra;
 }
 
+.cta-link, .cta-link:hover, .cta-link:visited {
+  font-family: 'Droid-Serif', serif;
+  color: $rose-bud;
+  font-size: 16px;
+}
+
 #tagline {
   font-family: 'Droid-Serif', serif;
   text-align: center;
