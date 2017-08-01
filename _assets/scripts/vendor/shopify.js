@@ -112,7 +112,7 @@
     },
     "styles": {
       "cart": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "button": {
         "background-color": "#f8b493",
@@ -133,7 +133,7 @@
         "color": "#212d5b"
       },
       "footer": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "header": {
         "color": "#212d5b"
@@ -398,7 +398,7 @@
     },
     "styles": {
       "cart": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "button": {
         "background-color": "#f8b493",
@@ -419,7 +419,7 @@
         "color": "#212d5b"
       },
       "footer": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "header": {
         "color": "#212d5b"
@@ -684,7 +684,7 @@
     },
     "styles": {
       "cart": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "button": {
         "background-color": "#f8b493",
@@ -705,7 +705,7 @@
         "color": "#212d5b"
       },
       "footer": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "header": {
         "color": "#212d5b"
@@ -970,7 +970,7 @@
     },
     "styles": {
       "cart": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "button": {
         "background-color": "#f8b493",
@@ -991,7 +991,7 @@
         "color": "#212d5b"
       },
       "footer": {
-        "background-color": "#f8f8f5"
+        "background-color": "#FFFFFF"
       },
       "header": {
         "color": "#212d5b"
