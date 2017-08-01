@@ -34,8 +34,18 @@ nav a {
   font-size: 18px;
 }
 
+nav ul {
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  padding: 15px 25px;
+}
+
 nav li:hover {
-  border-bottom: 3px solid $rose-bud;
+  padding-bottom: 10px;
+  border-bottom: 5px solid $rose-bud;
 }
 
 .jumbotron button {
