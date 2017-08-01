@@ -14,8 +14,8 @@ body {
 
 .jumbotron {
   margin-top: 100px;
-  height: 400px;
-  background-image: url(asset_path('2017interns.jpg'));
+  height: 500px;
+  background-color: $gray;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -62,5 +62,5 @@ body {
 #about {
   display: block;
   margin: 0 auto;
-  padding: 5em;
+  padding: 5em 5em 0;
 }
