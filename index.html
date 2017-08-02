@@ -9,15 +9,23 @@
       <nav class="navbar navbar-default navbar-fixed-top container">
         <div class="container">
           <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsed-nav" aria-expanded="false">
+              <span class="sr-only">Toggle</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
             <a class="navbar-brand" href="#">
               <img src={% asset_path 'thinkshout-cares-logo.png' %} alt="ThinkShout Cares" id="ts-cares-logo">
             </a>
           </div>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#shop">shop<br>t-shirts</a></li>
-            <li><a href="#support">our<br>mission</a></li>
-            <li><a href="#about">about<br>thinkshout</a></li>
-          </ul>
+          <div class="collapse navbar-collapse" id="collapsed-nav">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#shop">shop<br>t-shirts</a></li>
+              <li><a href="#support">our<br>mission</a></li>
+              <li><a href="#about">about<br>thinkshout</a></li>
+            </ul>
+          </div>
         </div>
       </nav>
       <div class="jumbotron">
@@ -29,31 +37,31 @@
       <div id="shop">
         <img class="img-responsive" src={% asset_path 'object-pattern.svg' %}>
         <h2>buy <span class="shirt-icon"><img src={% asset_path 'shirt' %}></span> help <span class="shirt-icon"><img src={% asset_path 'shirt' %}></span> wear</h2>
-        <p id="tagline">helping p:ear, a local nonprofit dedicated to mentoring homeless youth, is as simple as buying a t-shirt.</p>
+        <p id="tagline">helping p:ear, a local nonprofit dedicated to mentoring homeless youth, is as simple as buying a t-shirt</p>
         <div class="row">
           <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-3">
-            <img class="img-responsive" src={% asset_path 'product.png' %} alt="Product Preview">
+            <img class="img-responsive" src={% asset_path 'product.png' %} alt="Freedom">
             <h4>Freedom</h4>
             <h5>designed by p:ear</h5>
             <p>$30</p>
             <div class="shopify-content" id='product-component-d012481568d'></div>
           </div>
           <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-3">
-            <img src={% asset_path 'product.png' %} alt="Product Preview">
+            <img src={% asset_path 'product.png' %} alt="Vacation">
             <h4>Vacation</h4>
             <h5>designed by Alejandro Meillon</h5>
             <p>$30</p>
             <div class="shopify-content" id='product-component-c4f607df048'></div>
           </div>
           <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-3">
-            <img src={% asset_path 'product.png' %} alt="Product Preview">
+            <img src={% asset_path 'product.png' %} alt="Our Differences">
             <h4>Our Differences</h4>
             <h5>designed by ThinkShout</h5>
             <p>$30</p>
             <div class="shopify-content" id='product-component-2e57587bb16'></div>
           </div>
           <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-3">
-            <img src={% asset_path 'product.png' %} alt="Product Preview">
+            <img src={% asset_path 'product.png' %} alt="Humanity">
             <h4>Humanity</h4>
             <h5>designed by ThinkShout</h5>
             <p>$30</p>
@@ -72,13 +80,13 @@
                 <p>Here at ThinkShout we believe in creating lasting partnerships with nonprofits and forward thinking companies. Participating in our campaign is more than just buying a t-shirt. All of your money will go directly to p:ear, to fund programs like their Bike Mechanic and Barista schools which will help students learn lifelong skills and have a chance for more equal opportunities. But your money does more than just fund programs, $28 can buy three students breakfast and dinner and $25 can help with the cost of bus tickets and a pair of socks, journals and pens, sketchbook and pastels, first aid kits and even a hoodie.</p>
               </div>
               <div class="col-md-6">
-                <img class="img-responsive photo" src={% asset_path 'interns.png' %} alt="ThinkShout Interns">
+                <img id="ts-interns" class="img-responsive photo" src={% asset_path 'interns.png' %} alt="ThinkShout Interns">
               </div>
             </div>
             <img class="img-responsive" src={% asset_path 'stars.svg' %}>
             <div class="row">
               <div class="col-md-6">
-                <img class="img-responsive photo" src={% asset_path 'student.png' %} alt="p:ear Student">
+                <img id="pear-student" class="img-responsive photo" src={% asset_path 'student.png' %} alt="p:ear Student">
               </div>
               <div class="col-md-6">
                 <h3>supporting p:ear, our friends &amp; neighbors</h3>
@@ -86,7 +94,7 @@
                 <p>p:ear is a local nonprofit dedicated to supporting and mentoring homeless youth between the ages 15 and 24 through creative educational practices. Their approach allows students to find their interests and become passionate about subjects without the strict guidelines of the education system. Through this campaign some of p:ears most creative students came together and designed one of the t-shirts featured above.<br><a class="cta-link" href="https://pearmentor.org/" target="_blank">More about p:ear <img src={% asset_path 'arrow.png' %}></a></a></p>
               </div>
             </div>
-            <img class="img-responsive" src={% asset_path 'astronaut.svg' %}>
+            <img id="astronaut" class="img-responsive" src={% asset_path 'astronaut.svg' %}>
           </div>
         </div>
         <img id="moon-and-stars" class="img-responsive" src={% asset_path 'moon-and-stars.png' %}>

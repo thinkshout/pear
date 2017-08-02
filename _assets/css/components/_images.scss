@@ -18,17 +18,38 @@
   margin: auto;
 }
 
-#shop img {
-  display: block;
-  margin: auto;
-}
-
 #ts-cares-logo {
   height: 70px;
   width: auto;
   position: relative;
   top: 10px;
   left: 20px;
+}
+
+#shop img {
+  display: block;
+  margin: auto;
+}
+
+#ts-interns {
+  @include mq('large') {
+    position: relative;
+    left: 65px;
+    bottom: 50px;
+  }
+}
+
+#pear-student {
+  @include mq('large') {
+    position: relative;
+    right: 65px;
+    bottom: 30px;
+  }
+}
+
+#astronaut {
+  position: relative;
+  bottom: 30px;
 }
 
 #ts-logo {
