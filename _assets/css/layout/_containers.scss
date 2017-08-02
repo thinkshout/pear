@@ -7,6 +7,13 @@ body {
   padding: 0;
 }
 
+.main, .navbar {
+  @include mq('large') {
+    width: 1440px;
+  }
+  max-width: 1440px;
+}
+
 .shopify-content {
   display: block;
   margin: auto;
@@ -61,6 +68,8 @@ body {
 
 #about {
   display: block;
-  margin: 0 auto;
-  padding: 5em 5em 0;
+  margin: auto;
+  padding: 0 11em;
+  position: relative;
+  bottom: -50px;
 }

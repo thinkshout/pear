@@ -18,12 +18,13 @@ h1, h2, h3, h4 {
 h1 {
   font-size: 48px;
   color: $cararra;
-  margin: 1em;
+  margin: 0.5em auto 1em;
 }
 
 h2 {
   font-size: 40px;
   color: $cloud-burst;
+  margin-top: 1em;
 }
 
 h3 {
@@ -70,11 +71,12 @@ nav li:hover {
   font-size: 30px;
 }
 
-.jumbotron-text {
+.jumbotron h1 {
   display: block;
-  margin: auto;
+  margin: 1em auto;
   text-align: center;
   color: $cararra;
+  font-size: 48px;
 }
 
 .cta-link, .cta-link:hover, .cta-link:visited {
@@ -88,7 +90,7 @@ nav li:hover {
   font-family: 'Droid-Serif', serif;
   font-size: 28px;
   text-align: center;
-  margin: 25px 0;
+  margin: 1em 10em;
 }
 
 #shop p {
