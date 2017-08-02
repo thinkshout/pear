@@ -8,6 +8,12 @@ body {
 }
 
 .main, .navbar {
+  @include mq('small') {
+    width: 768px;
+  }
+  @include mq('medium') {
+    width: 1024px;
+  }
   @include mq('large') {
     width: 1440px;
   }
@@ -52,6 +58,7 @@ body {
 .framed-content {
   border: 5px dashed $cararra;
   padding: 1em 2em;
+  margin: 0 1em;
 }
 
 #shop {

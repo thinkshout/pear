@@ -7,10 +7,10 @@
 
 @mixin mq($screen) {
   @if ($screen == 'small') {
-     /* Small devices (tablets, 768px and up) */
-     @media (min-width: $screen-sm-min) {
-       @content;
-     }
+    /* Small devices (tablets, 768px and up) */
+    @media (min-width: $screen-sm-min) {
+      @content;
+    }
   }
 
   @if ($screen == 'medium') {
@@ -19,8 +19,11 @@
       @content;
     }
   }
+
   @if ($screen == 'large') {
     /* Large devices (large desktops, 1200px and up) */
-    @media (min-width: $screen-lg-min) { @content; }
+    @media (min-width: $screen-lg-min) {
+      @content;
+    }
   }
 }
