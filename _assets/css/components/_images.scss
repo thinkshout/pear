@@ -33,18 +33,15 @@
 #ts-cares-logo {
   height: 50px;
   width: auto;
+  position: relative;
+  bottom: 15px;
   @include mq('small') {
     height: 60px;
-    width: auto;
-    position: relative;
-    top: 40px;
+    bottom: 5px;
   }
   @include mq('medium') {
     height: 70px;
-    width: auto;
-    position: relative;
-    top: 10px;
-    left: 20px;
+    bottom: 10px;
   }
 }
 

@@ -3,6 +3,11 @@ body {
   color: $cloud-burst;
 }
 
+nav .container {
+  margin: 0;
+  padding: 0;
+}
+
 .main {
   padding: 0;
 }
@@ -53,10 +58,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.navbar-brand {
-  padding: 5px 10px;
 }
 
 .content {

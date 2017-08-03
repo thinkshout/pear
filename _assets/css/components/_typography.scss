@@ -79,13 +79,13 @@ nav ul {
   text-align: center;
 }
 
-nav li {
+.navbar-right li a {
   display: inline-block;
-  padding: 15px 25px;
+  padding: 20px;
 }
 
-nav li:hover {
-  padding-bottom: 10px;
+.navbar-right li a:hover {
+  padding-bottom: 15px;
   border-bottom: 5px solid $rose-bud;
 }
 
