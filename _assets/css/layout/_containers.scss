@@ -74,9 +74,11 @@ body {
 }
 
 #about {
-  display: block;
-  margin: auto;
-  padding: 0 11em;
-  position: relative;
-  bottom: -50px;
+  @include mq('large') {
+    display: block;
+    margin: auto;
+    padding: 0 11em;
+    position: relative;
+    bottom: -50px;
+  }
 }
