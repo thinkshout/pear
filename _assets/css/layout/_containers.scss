@@ -68,12 +68,17 @@ body {
   margin-top: 0px;
 }
 
-#support {
-  padding: 1em 3em 3em;
+#mission {
   margin-bottom: 0;
+  padding: 1em;
+  @include mq('large') {
+    padding: 1em 3em 3em;
+  }
 }
 
 #about {
+  max-width: 100%;
+  margin: 0;
   @include mq('large') {
     display: block;
     margin: auto;

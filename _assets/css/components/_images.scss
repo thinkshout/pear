@@ -54,6 +54,11 @@
 }
 
 #ts-interns {
+  @include mq('medium') {
+    position: relative;
+    left: 55px;
+    bottom: 45px;
+  }
   @include mq('large') {
     position: relative;
     left: 65px;
@@ -62,16 +67,23 @@
 }
 
 #pear-student {
+  @include mq('medium') {
+    position: relative;
+    right: 55px;
+    top: 70px;
+  }
   @include mq('large') {
     position: relative;
     right: 65px;
-    bottom: 30px;
+    top: 30px;
   }
 }
 
 #astronaut {
-  position: relative;
-  bottom: 30px;
+  @include mq('small') {
+    position: relative;
+    bottom: 20px;
+  }
 }
 
 #ts-logo {
