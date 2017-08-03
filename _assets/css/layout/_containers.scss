@@ -32,7 +32,7 @@ nav .container {
 
 .jumbotron {
   height: 215px;
-  margin-top: 100px;
+  margin-top: 90px;
   background-color: $cloud-burst;
   background-image: url(asset_path('thinkshout-cares.png'));
   background-position: center;
@@ -53,11 +53,17 @@ nav .container {
 
 .navbar {
   background-color: $cloud-burst;
-  border: 0;
-  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.navbar-default .navbar-collapse {
+  margin-top: 20px;
+  border-color: $white;
 }
 
 .content {

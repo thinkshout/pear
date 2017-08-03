@@ -22,12 +22,17 @@
           <div class="collapse navbar-collapse" id="collapsed-nav">
             <ul class="nav navbar-nav navbar-right">
               <li><a href="#shop">shop<br>t-shirts</a></li>
-              <li><a href="#support">our<br>mission</a></li>
+              <li><a href="#mission">our<br>mission</a></li>
               <li><a href="#about">about<br>thinkshout</a></li>
             </ul>
           </div>
         </div>
       </nav>
+      <script type="text/javascript">
+        $('.navbar-collapse ul li a').click(function() {
+          $('.navbar-collapse').removeClass('in');
+        });
+      </script>
       <div class="jumbotron">
         <h1 id="campaign-title">ThinkShout Cares:<br>A Campaign for Change</h1>
         <a href="#shop">
