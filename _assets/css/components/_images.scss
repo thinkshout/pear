@@ -48,6 +48,23 @@
   }
 }
 
+#buy-button {
+  width: 150px;
+  height: auto;
+  @include mq('small') {
+    width: 150px;
+    height: auto;
+  }
+  @include mq('medium') {
+    width: 180px;
+    height: auto;
+  }
+  @include mq('large') {
+    width: 280px;
+    height: auto;
+  }
+}
+
 #shop img {
   display: block;
   margin: auto;

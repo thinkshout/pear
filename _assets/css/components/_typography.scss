@@ -111,17 +111,26 @@ nav li:hover {
 
 #campaign-title {
   font-size: 30px;
-  margin: 3em auto 2em;
+  margin: 0.5em auto;
   @include mq('small') {
-    font-size: 48px;
-    margin: 0.5em auto 1em;
+    font-size: 32px;
+    margin: 2.75em auto 0.5em;
   }
+  @include mq('medium') {
+    font-size: 40px;
+    margin: 3.5em auto 0.5em;
+  }
+  @include mq('large') {
+    font-size: 48px;
+    margin: 5em auto 1em;
+  }
+
 }
 
 #tagline {
   text-align: center;
   font-family: 'Droid-Serif', serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.5em;
   @include mq('small') {
     font-size: 24px;
