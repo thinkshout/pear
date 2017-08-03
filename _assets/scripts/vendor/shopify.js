@@ -33,7 +33,7 @@
         options: {
   "product": {
     "variantId": "all",
-    "width": "200px",
+    "width": "150px",
     "contents": {
       "img": false,
       "imgWithCarousel": false,
@@ -262,7 +262,7 @@
         "font-family": "Droid Serif, serif"
       },
       "select": {
-        "font-family": "Droid Serif, serif"
+        "font-family": "Roboto, sans-serif"
       }
     },
     "googleFonts": [
@@ -319,7 +319,7 @@
         options: {
   "product": {
     "variantId": "all",
-    "width": "200px",
+    "width": "150px",
     "contents": {
       "img": false,
       "imgWithCarousel": false,
@@ -548,7 +548,7 @@
         "font-family": "Droid Serif, serif"
       },
       "select": {
-        "font-family": "Droid Serif, serif"
+        "font-family": "Roboto, sans-serif"
       }
     },
     "googleFonts": [
@@ -605,7 +605,7 @@
         options: {
   "product": {
     "variantId": "all",
-    "width": "200px",
+    "width": "150px",
     "contents": {
       "img": false,
       "imgWithCarousel": false,
@@ -834,7 +834,7 @@
         "font-family": "Droid Serif, serif"
       },
       "select": {
-        "font-family": "Droid Serif, serif"
+        "font-family": "Roboto, sans-serif"
       }
     },
     "googleFonts": [
@@ -891,7 +891,7 @@
         options: {
   "product": {
     "variantId": "all",
-    "width": "200px",
+    "width": "150px",
     "contents": {
       "img": false,
       "imgWithCarousel": false,
@@ -1120,7 +1120,7 @@
         "font-family": "Droid Serif, serif"
       },
       "select": {
-        "font-family": "Droid Serif, serif"
+        "font-family": "Roboto, sans-serif"
       }
     },
     "googleFonts": [
