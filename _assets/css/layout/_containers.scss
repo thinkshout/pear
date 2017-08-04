@@ -105,11 +105,15 @@ nav .container {
 #about {
   max-width: 100%;
   margin: 0;
+  @include mq('small') {
+    margin: 0 3em;
+  }
+  @include mq('medium') {
+    margin: 0 6em;
+  }
   @include mq('large') {
     display: block;
     margin: auto;
     padding: 0 11em;
-    position: relative;
-    bottom: -50px;
   }
 }
