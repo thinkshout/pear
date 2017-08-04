@@ -15,8 +15,6 @@ group :plugins do
   gem "jekyll-assets"
 end
 
-gem "jekyll-assets"
-
 gem "uglifier"
 gem "sass"
 gem "bootstrap-sass"
