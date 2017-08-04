@@ -42,13 +42,13 @@ nav .container {
   border-radius: 0px !important;
   position: relative;
   @include mq('small') {
-    height: 315px;
+    height: 350px;
   }
   @include mq('medium') {
-    height: 420px;
+    height: 465px;
   }
   @include mq('large') {
-    height: 600px;
+    height: 635px;
   }
 
   &::after {
