@@ -77,8 +77,11 @@ nav .container {
 
 .framed-content {
   border: 5px dashed $cararra;
-  padding: 1em 2em;
+  padding: 2em 2em;
   margin: 0 1em;
+  @include mq('medium') {
+    padding: 1em 2em;
+  }
 }
 
 #collapsed-nav {
@@ -116,4 +119,8 @@ nav .container {
     margin: auto;
     padding: 0 11em;
   }
+}
+
+#about-ts {
+  padding: 0 1.5em;
 }
