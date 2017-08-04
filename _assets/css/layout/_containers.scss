@@ -59,6 +59,9 @@ nav .container {
   display: flex;
   align-items: center;
   justify-content: center;
+  @include mq('small') {
+    height: 100px;
+  }
 }
 
 .navbar-default .navbar-collapse {
@@ -76,6 +79,12 @@ nav .container {
   border: 5px dashed $cararra;
   padding: 1em 2em;
   margin: 0 1em;
+}
+
+#collapsed-nav {
+  @include mq('small') {
+    margin-top: 0;
+  }
 }
 
 #shop {
