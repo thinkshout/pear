@@ -36,6 +36,11 @@ If you get a Ruby version error message, you may need to run:
 * `bundle exec jekyll serve`
 * Visit the website at [http://127.0.0.1:4000/](http://localhost:4000)
 
+## Deployment
+* Managed using the [s3_website gem](https://github.com/laurilehmijoki/s3_website).
+* To deploy, run `bundle exec s3_website push`.
+* You must have an S3 key and Secret available in your environment variables with access to the give.thinkshout.com bucket.
+
 ## Known Bugs
 
 There are no known bugs at this time. To report a bug, please visit the [Github Issues page](https://github.com/thinkshout/pear/issues) for this repository.
