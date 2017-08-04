@@ -79,12 +79,12 @@
 #ts-interns {
   @include mq('medium') {
     position: relative;
-    left: 55px;
-    bottom: 45px;
+    right: 55px;
+    bottom: -90px;
   }
   @include mq('large') {
     position: relative;
-    left: 65px;
+    right: 60px;
     bottom: 50px;
   }
 }
@@ -92,18 +92,21 @@
 #pear-student {
   @include mq('medium') {
     position: relative;
-    right: 55px;
     top: 70px;
+    left: 55px;
   }
   @include mq('large') {
     position: relative;
-    right: 65px;
-    top: 30px;
+    top: -57px;
+    left: 60px;
   }
 }
 
 #astronaut {
   @include mq('small') {
+    margin-top: 1em;
+  }
+  @include mq('medium') {
     position: relative;
     bottom: 20px;
   }
