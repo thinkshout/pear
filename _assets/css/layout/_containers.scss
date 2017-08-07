@@ -13,6 +13,7 @@ nav .container {
 }
 
 .main, .navbar {
+  max-width: 1440px;
   @include mq('small') {
     width: 768px;
   }
@@ -22,7 +23,6 @@ nav .container {
   @include mq('large') {
     width: 1440px;
   }
-  max-width: 1440px;
 }
 
 .shopify-content {
