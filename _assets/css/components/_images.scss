@@ -1,6 +1,11 @@
 .social {
   margin: 0 0.25em;
   width: 35px;
+  transition: all .2s ease-in-out;
+}
+
+.social:hover {
+  transform: scale(1.1);
 }
 
 .shirt-icon {
