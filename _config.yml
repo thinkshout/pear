@@ -36,6 +36,7 @@ exclude:
   - package*.json
   - ISSUE_TEMPLATE.md
   - Rakefile
+  - s3_website.yml
 
 # Asset configuration
 assets:
