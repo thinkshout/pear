@@ -87,6 +87,14 @@ nav .container {
   border-color: $white;
 }
 
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-body {
+  padding-top: 0;
+}
+
 .content {
   margin: 0;
   background-image: linear-gradient($cloud-burst, $cornflower);
@@ -113,14 +121,6 @@ nav .container {
   color: $cloud-burst;
   padding: 1em 2em;
   margin-top: 0px;
-}
-
-.modal-header {
-  border-bottom: none;
-}
-
-.modal-body {
-  padding-top: 0;
 }
 
 #mission {
