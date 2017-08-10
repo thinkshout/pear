@@ -95,6 +95,16 @@ nav .container {
   padding-top: 0;
 }
 
+.modal-content {
+  @include mq('medium') {
+    width: 800px;
+    z-index: auto;
+  }
+  @include mq('large') {
+    width: 1000px;
+  }
+}
+
 .content {
   margin: 0;
   background-image: linear-gradient($cloud-burst, $cornflower);

@@ -86,7 +86,13 @@
 }
 
 #size-chart {
-  margin-top: 2em !important;
+  padding-top: 1em;
+  @include mq('small') {
+    padding-top: 1.5em;
+  }
+  @include mq('medium') {
+    padding-top: 2em;
+  }
 }
 
 #ts-interns {
