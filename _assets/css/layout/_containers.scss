@@ -87,6 +87,34 @@ nav .container {
   border-color: $white;
 }
 
+.modal {
+  @include mq('medium') {
+    text-align: center;
+    padding: 0 !important;
+  }
+}
+
+.modal:before {
+  @include mq('medium') {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -200px;
+  }
+  @include mq('large') {
+    margin-right: -400px;
+  }
+}
+
+.modal-dialog {
+  @include mq('medium') {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+  }
+}
+
 .modal-header {
   border-bottom: none;
 }
